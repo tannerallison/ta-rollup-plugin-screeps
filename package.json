@@ -1,5 +1,5 @@
 {
-  "name": "ta-rollup-plugin-screeps",
+  "name": "rollup-plugin-screeps",
   "description": "Rollup Plugin for Screeps",
   "license": "MIT",
   "author": "Adam Laycock",
